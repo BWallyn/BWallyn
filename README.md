@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Welcome to my GitHub profile!
+
+- 💬 Let's talk on LinkedIn: https://www.linkedin.com/in/benjamin-wallyn-464b40140/
+- ✉️ You can subscribe to my newsletter: https://substack.com/@thelearningloop
+
 <!--
 **BWallyn/BWallyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
