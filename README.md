@@ -5,6 +5,7 @@ Welcome to my GitHub profile!
 Let's catch up:
 - 💬 Let's talk on LinkedIn: https://www.linkedin.com/in/benjamin-wallyn-464b40140/
 - ✉️ You can subscribe to my newsletter: https://substack.com/@thelearningloop
+- 📫 How to reach me: ben96.wallyn@gmail.com
 
 About me:
 - 🔭 I’m currently working on some side project
