@@ -13,6 +13,9 @@ About me:
 - 🏃 Might be currently running somewhere --> Strava
 - 🎸 Guitarist
 
+My projects to check:
+- NYC-taxi: Predict the duration of the trip. Use of MLOps technics, Machine Learning, Data Science, Dashboard
+
 <!--
 **BWallyn/BWallyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
