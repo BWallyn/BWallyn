@@ -8,7 +8,7 @@ Let's catch up:
 - 📫 How to reach me: ben96.wallyn@gmail.com
 
 About me:
-- 🔭 I’m currently working on some side project
+- 🔭 I’m currently working on velib availability prediction
 - 🌱 I’m currently learning Machine Learning, Data Science, MLOps
 - 🏃 Might be currently running somewhere --> Strava
 - 🎸 Guitarist
