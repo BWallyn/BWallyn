@@ -15,7 +15,7 @@ About me:
 
 My projects to check:
 - NYC-taxi: Predict the duration of the trip. Use of MLOps technics, Machine Learning, Data Science, Dashboard
-- Velib-prediction (WIP): Predict the number of available bikes at each station in Paris
+- Velib-prediction (WIP): End-to-end ML project to predict the number of available bikes at each station in Paris
 
 <!--
 **BWallyn/BWallyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
