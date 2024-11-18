@@ -9,7 +9,8 @@ Let's catch up:
 
 About me:
 - 🔭 I’m currently working on velib availability prediction
-- 🌱 I’m currently learning Machine Learning, Data Science, MLOps
+- 🌱 I’m currently learning Machine Learning, Deep Learning, Data Science, MLOps
+- 👯 I’m looking to collaborate on Satellite Imagery work
 - 🏃 Might be currently running somewhere --> Strava
 - 🎸 Guitarist
 
