@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile! I'm a senior data scientist, interesting about Machine Learning, Deep Learning and MLOps.
 
 Let's catch up:
 - 💬 Let's talk on LinkedIn: https://www.linkedin.com/in/benjamin-wallyn-464b40140/
