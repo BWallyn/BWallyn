@@ -11,7 +11,7 @@ About me:
 - 🔭 I’m currently working on velib availability prediction
 - 🌱 I’m currently learning Machine Learning, Deep Learning, Data Science, MLOps
 - 👯 I’m looking to collaborate on Satellite Imagery work
-- 🏃 Might be currently running somewhere
+- 🏃 Runner
 - 🎸 Guitarist
 
 My projects to check:
