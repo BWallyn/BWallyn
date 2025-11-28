@@ -13,6 +13,7 @@ About me:
 - 👯 I’m looking to collaborate on Satellite Imagery work
 - 🏃 Runner
 - 🎸 Guitarist
+- 📷 Photograph - [Portfolio](https://benwallyn.myportfolio.com)
 
 My projects to check:
 - NYC-taxi: Predict the duration of the trip. Use of MLOps technics, Machine Learning, Data Science, Dashboard
