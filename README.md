@@ -8,7 +8,7 @@ Let's catch up:
 - 📫 How to reach me: ben96.wallyn@gmail.com
 
 About me:
-- 🔭 I’m currently working on velib availability prediction
+- 🔭 I’m currently developing a training for MLOps
 - 🌱 I’m currently learning Machine Learning, Deep Learning, Data Science, MLOps
 - 👯 I’m looking to collaborate on Satellite Imagery work
 - 🏃 Runner
